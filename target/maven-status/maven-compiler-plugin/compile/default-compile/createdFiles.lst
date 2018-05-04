@@ -1,0 +1,12 @@
+ua/com/jcoh/service/impl/UserServiceImpl.class
+ua/com/jcoh/validator/UserValidator.class
+ua/com/jcoh/entity/Roles.class
+ua/com/jcoh/controller/MainController.class
+ua/com/jcoh/entity/User.class
+ua/com/jcoh/service/UserService.class
+ua/com/jcoh/service/MailService.class
+ua/com/jcoh/config/WebInit.class
+ua/com/jcoh/dao/UserDAO.class
+ua/com/jcoh/config/DataConfig.class
+ua/com/jcoh/config/WebConfig.class
+ua/com/jcoh/service/impl/MailServiceImpl.class

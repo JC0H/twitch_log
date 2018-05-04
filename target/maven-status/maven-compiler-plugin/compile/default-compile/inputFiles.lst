@@ -1,0 +1,12 @@
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/service/UserService.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/config/WebConfig.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/controller/MainController.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/entity/User.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/dao/UserDAO.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/entity/Roles.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/config/DataConfig.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/validator/UserValidator.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/service/impl/UserServiceImpl.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/service/MailService.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/service/impl/MailServiceImpl.java
+/home/jcoh/prog/git/twitch_log/src/main/java/ua/com/jcoh/config/WebInit.java
