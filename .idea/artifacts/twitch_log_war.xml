@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="twitch_log:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="twitch_log.war">
+      <element id="artifact" artifact-name="twitch_log:war exploded" />
+    </root>
+  </artifact>
+</component>
