@@ -51,6 +51,7 @@ public class WebConfig extends WebMvcConfigurerAdapter{
     public void addResourceHandlers(ResourceHandlerRegistry registry){
         registry.addResourceHandler("/assets/**").addResourceLocations("/assets/");
         registry.addResourceHandler("/vendor/**").addResourceLocations("/vendor/");
+        registry.addResourceHandler("/resources/**").addResourceLocations("/resources/");
 
     }
 }
